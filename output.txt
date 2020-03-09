@@ -1,1 +1,2 @@
-SAMPLTESTXT
+Hello Class
+How are you?
